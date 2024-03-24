@@ -1,7 +1,8 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
+- degree: Bachelor of Technology, Chemical Engineering
   uni: SRM Institute of Science and Technology
   year: 2021 &mdash; 2025
+  GPA: 08.83%
   awards:
  #   - award: Summa Cumme Laude graduate
  # summary: If you had any meaningful roles at college, feel free to write about them here
@@ -9,6 +10,7 @@
 - degree: 12th
   uni: Kendriya Vidyalaya I.I.T Madras
   year: 2021
+  grade: 94.80%
 #  award: Most likely to succeed
 # summary: You can choose to have either a single or multiple awards
 
@@ -16,5 +18,6 @@
 - degree: 10th
   uni: Kendriya Vidyalaya C.L.R.I
   year: 2019
+  grade: 85.60%
 #  award: Most likely to succeed
 # summary: You can choose to have either a single or multiple awards
